@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello,git!");
         System.out.println("hello,new code!");
         System.out.println("newCode3");
+        System.out.println("new branch");
     }
 }
